@@ -20,6 +20,8 @@ def get_image_download_link(img, filename, text):
 
 
 def main():
+    logo_url = "https://i.ibb.co/QMKDV8Z/App-icon.png"
+    st.image(logo_url, width=200)
     st.title("Background Removal App")
 
     uploaded_file = st.file_uploader("Upload an image...", type=["jpg", "jpeg", "png"])
