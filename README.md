@@ -36,4 +36,4 @@ This application utilizes advanced AI techniques to remove the background from i
 
 ---
 This application is a demonstration of using AI for practical and creative image editing. It's designed to be simple and effective, providing users with quick results and a hassle-free experience. Whether you're a professional looking for a quick way to clean up images or someone just exploring the possibilities of AI in image editing, this tool is for you.
----
+
