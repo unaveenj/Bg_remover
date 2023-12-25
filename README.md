@@ -1,5 +1,8 @@
 # Background Removal App
 
+![Background Removal App](https://github.com/unaveenj/Bg_remover/blob/master/App%20icon.png?raw=true)
+
+
 ## Introduction
 This application utilizes advanced AI techniques to remove the background from images, making it perfect for creating professional-looking photos, graphics for marketing materials, or any other project where you need a clean image. This app is user-friendly and web-based, built using Streamlit, and can handle images uploaded directly or via URL.
 
